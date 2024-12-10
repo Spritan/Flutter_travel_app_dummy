@@ -1,0 +1,39 @@
+{
+  "user": {
+    "id": "u1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "avatar": "https://picsum.photos/seed/user/200",
+    "bio": "Travel Enthusiast",
+    "stats": {
+      "countries": 12,
+      "trips": 24,
+      "bookings": 36
+    },
+    "preferences": {
+      "destinations": "Beach Resorts, Mountains",
+      "food": "Local Cuisine, Street Food",
+      "accommodation": "Luxury Hotels, Boutique Stays"
+    },
+    "recentActivity": [
+      {
+        "id": "ra1",
+        "title": "Booked Bali Paradise Escape",
+        "timestamp": "2024-03-13T10:00:00Z",
+        "type": "booking"
+      },
+      {
+        "id": "ra2",
+        "title": "Reviewed Swiss Alps Resort",
+        "timestamp": "2024-03-10T15:30:00Z",
+        "type": "review"
+      },
+      {
+        "id": "ra3",
+        "title": "Added Japan Trip to Wishlist",
+        "timestamp": "2024-03-07T08:45:00Z",
+        "type": "wishlist"
+      }
+    ]
+  }
+} 

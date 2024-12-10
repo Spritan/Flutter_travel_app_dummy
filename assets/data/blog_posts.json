@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "bp1",
+      "title": "Hidden Gems of Southeast Asia",
+      "excerpt": "Discover lesser-known destinations that will take your breath away...",
+      "content": "Southeast Asia is home to countless hidden paradises that most travelers overlook...",
+      "author": "Jane Traveler",
+      "imageUrl": "https://picsum.photos/seed/asia/300/200",
+      "date": "2024-03-15",
+      "tags": ["Asia", "Adventure", "Culture"],
+      "readTime": 5
+    },
+    {
+      "id": "bp2",
+      "title": "Ultimate Guide to Budget Travel",
+      "excerpt": "Learn how to explore the world without breaking the bank...",
+      "content": "Traveling on a budget doesn't mean compromising on experiences...",
+      "author": "John Wanderlust",
+      "imageUrl": "https://picsum.photos/seed/budget/400/300",
+      "date": "2024-03-10",
+      "tags": ["Budget", "Tips", "Planning"],
+      "readTime": 8
+    },
+    {
+      "id": "bp3",
+      "title": "Best Street Food Cities in Asia",
+      "excerpt": "A culinary journey through Asia's most vibrant street food scenes...",
+      "content": "From Bangkok's bustling markets to Singapore's hawker centers...",
+      "author": "Mike Foodie",
+      "imageUrl": "https://picsum.photos/seed/food/400/300",
+      "date": "2024-03-08",
+      "tags": ["Food", "Asia", "Culture"],
+      "readTime": 6
+    },
+    {
+      "id": "bp4",
+      "title": "Sustainable Travel Tips",
+      "excerpt": "How to minimize your environmental impact while exploring the world...",
+      "content": "Sustainable travel is more important than ever...",
+      "author": "Emma Green",
+      "imageUrl": "https://picsum.photos/seed/eco/400/300",
+      "date": "2024-03-05",
+      "tags": ["Eco-friendly", "Tips", "Sustainability"],
+      "readTime": 7
+    }
+  ]
+} 

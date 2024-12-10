@@ -1,0 +1,36 @@
+{
+  "notifications": [
+    {
+      "id": "n1",
+      "title": "Flash Sale: Bali Packages",
+      "message": "Get 30% off on all Bali travel packages...",
+      "type": "promotion",
+      "timestamp": "2024-03-15T10:00:00Z",
+      "isRead": false
+    },
+    {
+      "id": "n2",
+      "title": "New Blog Post",
+      "message": "Check out our latest blog post about hidden gems in Southeast Asia",
+      "type": "content",
+      "timestamp": "2024-03-14T15:30:00Z",
+      "isRead": true
+    },
+    {
+      "id": "n3",
+      "title": "Travel Advisory",
+      "message": "Updated travel guidelines for Switzerland. Please check before booking.",
+      "type": "alert",
+      "timestamp": "2024-03-13T08:45:00Z",
+      "isRead": false
+    },
+    {
+      "id": "n4",
+      "title": "Booking Confirmed",
+      "message": "Your Maldives Luxury Retreat booking has been confirmed!",
+      "type": "booking",
+      "timestamp": "2024-03-12T14:20:00Z",
+      "isRead": true
+    }
+  ]
+} 

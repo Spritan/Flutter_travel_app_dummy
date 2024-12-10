@@ -1,0 +1,68 @@
+{
+  "packages": [
+    {
+      "id": "tp1",
+      "name": "Bali Paradise Escape",
+      "description": "Experience the magic of Bali with this all-inclusive package featuring pristine beaches, ancient temples, and luxury accommodations.",
+      "price": 1299.99,
+      "duration": "7 days",
+      "imageUrl": "https://picsum.photos/seed/bali/300/200",
+      "highlights": [
+        "Private villa accommodation",
+        "Traditional spa treatment",
+        "Temple tours",
+        "Sunset dinner cruise"
+      ],
+      "location": "Bali, Indonesia",
+      "rating": 4.8
+    },
+    {
+      "id": "tp2",
+      "name": "Swiss Alps Adventure",
+      "description": "Discover the breathtaking beauty of the Swiss Alps with skiing, hiking, and authentic Swiss experiences.",
+      "price": 1899.99,
+      "duration": "8 days",
+      "imageUrl": "https://picsum.photos/seed/swiss/400/300",
+      "highlights": [
+        "Ski resort access",
+        "Mountain hiking tours",
+        "Swiss chocolate tasting",
+        "Cable car experiences"
+      ],
+      "location": "Swiss Alps, Switzerland",
+      "rating": 4.9
+    },
+    {
+      "id": "tp3",
+      "name": "Maldives Luxury Retreat",
+      "description": "Indulge in ultimate luxury with overwater villas, pristine beaches, and world-class diving experiences.",
+      "price": 2499.99,
+      "duration": "5 days",
+      "imageUrl": "https://picsum.photos/seed/maldives/400/300",
+      "highlights": [
+        "Overwater villa stay",
+        "Private beach access",
+        "Scuba diving sessions",
+        "Sunset yacht cruise"
+      ],
+      "location": "Maldives",
+      "rating": 4.9
+    },
+    {
+      "id": "tp4",
+      "name": "Japan Cultural Journey",
+      "description": "Immerse yourself in Japanese culture with traditional experiences in Tokyo, Kyoto, and Osaka.",
+      "price": 2199.99,
+      "duration": "10 days",
+      "imageUrl": "https://picsum.photos/seed/japan/400/300",
+      "highlights": [
+        "Tea ceremony experience",
+        "Temple stays",
+        "Sushi making class",
+        "Bullet train passes"
+      ],
+      "location": "Japan",
+      "rating": 4.7
+    }
+  ]
+} 
