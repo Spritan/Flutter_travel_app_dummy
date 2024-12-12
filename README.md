@@ -247,9 +247,8 @@ flutter run
 
 ## 📱 Platform Support
 
-- iOS
-- Android
-- Web (experimental)
+- iOS (untested)
+- Android 
 
 ## 🔧 Development Guidelines
 
