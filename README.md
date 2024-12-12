@@ -232,7 +232,7 @@ class AppTheme {
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/flutter_travel_app.git
+git clone https://github.com/Spritan/Flutter_travel_app_dummy.git
 ```
 
 2. Install dependencies
@@ -292,8 +292,8 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Your Name - Initial work - [Spritan](https://github.com/Spritan)
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, create an issue in the repository.
